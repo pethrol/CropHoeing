@@ -1,0 +1,7 @@
+name: CropHoeing
+version: ${project.version}
+main: me.procq.spigotplugins.crophoeing.CropHoeing
+api-version: 1.16
+depend: [Java, Spigot]
+authors: [procq]
+description: Simple plugin that makes your plants replants automaticly if you break it with hoe.
