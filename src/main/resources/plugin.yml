@@ -4,6 +4,3 @@ main: me.procq.spigotplugins.crophoeing.CropHoeing
 api-version: 1.16
 authors: [procq]
 description: Simple plugin that makes your plants replants automaticly if you break it with hoe.
-commands:
-  crophoeing:
-    description:
